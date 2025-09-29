@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { User, Settings, Calendar, Award, BarChart3, Bell, MapPin, Mail, Phone, Edit, Trash2, Filter, Heart, Users, Clock, Star, Eye, ChevronRight, Search, Bookmark, TrendingUp, Target, Globe } from 'lucide-react';
+import { User, Settings, Calendar, Award, ChartBar as BarChart3, Bell, MapPin, Mail, Phone, CreditCard as Edit, Trash2, ListFilter as Filter, Heart, Users, Clock, Star, Eye, ChevronRight, Search, Bookmark, TrendingUp, Target, Globe } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Dashboard() {

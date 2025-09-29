@@ -1,6 +1,6 @@
 'use client';
 
-import { ArrowRight, Heart, Users, Calendar, Award, Star, CheckCircle, Sparkles, Globe, Shield } from 'lucide-react';
+import { ArrowRight, Heart, Users, Calendar, Award, Star, CircleCheck as CheckCircle, Sparkles, Globe, Shield } from 'lucide-react';
 import Link from 'next/link';
 
 export default function Home() {
